@@ -7,6 +7,7 @@ Free Minecraft Java worlds from the 37% Sure YouTube channel: real cities at one
 |---|---|---|
 | **Midtown Manhattan**: 4,018 buildings, the Empire State, Chrysler, Times Square | [watch](https://youtu.be/6PKTXaJRPlI) | [Manhattan-1to1-Minecraft-1.21.11.zip](https://github.com/akmiyata/37-sure-maps/releases/latest/download/Manhattan-1to1-Minecraft-1.21.11.zip) (75 MB) |
 | **Seattle**: 15,922 buildings, every street and hill, the Space Needle | [watch](https://youtu.be/OQQVNCT5sVc) | [Seattle-1to1-Minecraft-1.21.11.zip](https://github.com/akmiyata/37-sure-maps/releases/latest/download/Seattle-1to1-Minecraft-1.21.11.zip) (269 MB) |
+| **Tokyo, Shibuya to Shinjuku**: 32,692 buildings, the Scramble Crossing, Meiji Jingu, the Metropolitan Government Building | video soon | [Tokyo-1to1-Minecraft-1.21.11.zip](https://github.com/akmiyata/37-sure-maps/releases/latest/download/Tokyo-1to1-Minecraft-1.21.11.zip) (207 MB) |
 
 ## Install
 1. Minecraft **Java Edition 1.21.11**.
@@ -22,4 +23,4 @@ Shapes and heights come from the map; facades and interiors are generated, and s
 
 ## Credits
 Map data © OpenStreetMap contributors, available under the [Open Database License](https://www.openstreetmap.org/copyright).
-Elevation: U.S. Geological Survey, 3D Elevation Program. Free to explore, share and make videos in; please link back to the videos.
+Elevation: U.S. Geological Survey, 3D Elevation Program (Manhattan, Seattle); 標高タイル（国土地理院）/ Geospatial Information Authority of Japan (Tokyo). Free to explore, share and make videos in; please link back to the videos.
